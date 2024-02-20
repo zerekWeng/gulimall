@@ -9,12 +9,13 @@
 	<description>aggregate services</description>
 	<packaging>pom</packaging>
 	<modules>
+		<module>gulimall-admin</module>
+		<module>gulimall-common</module>
 		<module>gulimall-member</module>
 		<module>gulimall-product</module>
 		<module>gulimall-coupon</module>
 		<module>gulimall-order</module>
 		<module>gulimall-ware</module>
-		<module>gulimall-admin</module>
 	</modules>
 
 </project>
